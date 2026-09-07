@@ -2,6 +2,10 @@
 
 A responsive, single-page portfolio for Renet Mammen Reji, a Computer Science undergraduate focused on AI/ML, computer vision, and full-stack development.
 
+## Live Link
+
+https://renet-web-portfolio.onrender.com
+
 ## Technologies
 
 - Semantic HTML5
