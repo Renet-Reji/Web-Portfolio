@@ -1,0 +1,1 @@
+Reserved for future local icons. The current portfolio uses text and CSS-generated visuals.
